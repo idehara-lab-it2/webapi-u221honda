@@ -29,7 +29,7 @@
 
 ## repl.it のアカウント登録
 
-[repl.it](https://replit.com/) から、多摩大学のアカウントでユーザ登録する。
+[repl.it](https://replit.com/) から、githubアカウントでユーザ登録する。
 
 ## GitHub リポジトリとの接続
 
